@@ -1,0 +1,1 @@
+// function = declaro uma função
